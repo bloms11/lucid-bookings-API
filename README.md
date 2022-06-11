@@ -1,5 +1,5 @@
 # lucid-bookings-API
-description goes here
+This is my most advanced project so far. It's a MERN stack hotel reservation app project, using Context API, JWT, custom hooks, and Cookie-Parser. Schemas for hotels, users and room models are created alongside the routes in this app. 
 
 ## Installations
 
@@ -57,4 +57,10 @@ Start the server
 ```bash
   npm run start
 ```
+# Future Scope
+- Integrate a client-side and admin dashboard with this API(in progress)
+ 
+![Screenshot (16)](https://user-images.githubusercontent.com/57482590/173204069-db626c06-03e3-406b-99a1-1eac0b135d26.png)
+
+![Screenshot (17)](https://user-images.githubusercontent.com/57482590/173204074-b6babb33-9946-45b6-b77d-1a8ba2ebd243.png)
 
